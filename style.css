@@ -7,7 +7,8 @@
 }
 
 body{
-    background-color: valor(--cor-fundo);
+    background-image:url('fundo.jpg');/
+    caminho da imagem/image: .png;
     color: var(--cor-texto);
     display: flex;
     justify-content: center;
